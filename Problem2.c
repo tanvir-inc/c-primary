@@ -8,7 +8,7 @@ int main(){
     printf("Enter width:");
     scanf("%d",&w);
 
-    ans= l*w;
+    area= l*w;
     printf("The area is: %d",area);
 
     return 0;
